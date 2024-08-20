@@ -24,9 +24,7 @@ This project demonstrates the testing of Spotify APIs using the Rest-assured fra
 - Check status code.
 - Validate returned values in the response body.
 - Ensure proper handling of errors.
-  
-### Allure Report
-[SpotifyAPI Testcases Report](https://shroukk.github.io/SpotifyAPI/index.html)
+
 
 ## Prerequisites
 - JDK 21
